@@ -1,7 +1,5 @@
 # Sales Dashboard (Dashboard de Performance de Vendas & Clientes)
 
-[!["Link para o Relatório"](https://img.shields.io/badge/Aceder-Dashboard%20Interativo-blue?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiZTBmNDQ3ZTctZWE5ZC00Yzk1LWFkYmItMDg3NTk0Njc5OWRjIiwidCI6ImRhYjgyMzM0LTU2YzctNDIxMy1hZGQyLTRhMjJjMjgyMzYxYyJ9)
-
 ## 📌 Visão Geral
 Este projeto consiste em um painel executivo desenvolvido para análise de performance comercial. O objetivo é transformar dados de vendas em insights estratégicos, permitindo a monitorização de KPIs críticos e o comportamento de consumo por categoria e localização.
 
