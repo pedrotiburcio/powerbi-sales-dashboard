@@ -22,7 +22,8 @@ Apliquei princípios de modelagem dimensional (**Star Schema**) para garantir a 
 - Otimização de medidas DAX para reduzir o tempo de processamento.
 
 ## 📸 Demonstração
-
+![Dashboard de Vendas - Visão Geral](https://raw.githubusercontent.com/pedrotiburcio/powerbi-sales-dashboard/main/screenshots/dashboard.png)
+*Legenda: Visão geral do dashboard de vendas desenvolvido no Power BI.*
 
 ## 🚀 Como visualizar
 Pode interagir com o dashboard online através do link: [Dashboard Interativo](https://app.powerbi.com/view?r=eyJrIjoiZTBmNDQ3ZTctZWE5ZC00Yzk1LWFkYmItMDg3NTk0Njc5OWRjIiwidCI6ImRhYjgyMzM0LTU2YzctNDIxMy1hZGQyLTRhMjJjMjgyMzYxYyJ9)
