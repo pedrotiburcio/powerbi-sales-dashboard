@@ -24,10 +24,10 @@ Apliquei princípios de modelagem dimensional (**Star Schema**) para garantir a 
 ## 📸 Demonstração
 ![Dashboard de Vendas - Visão Geral](https://raw.githubusercontent.com/pedrotiburcio/powerbi-sales-dashboard/main/screenshots/dashboard.png)
 *Visão geral do dashboard de vendas.*
-
+<br><br>
 ![Dashboard Sales Tooltip](https://raw.githubusercontent.com/pedrotiburcio/powerbi-sales-dashboard/main/screenshots/salesdashboard-tooltip.png)
 *Tooltips exibindo métricas específicas ao passar o mouse.*
-
+<br><br>
 ![Sales Details](https://raw.githubusercontent.com/pedrotiburcio/powerbi-sales-dashboard/main/screenshots/salesdetails.png)
 *Visão detalhada das transações e análise granular de vendas.*
 
