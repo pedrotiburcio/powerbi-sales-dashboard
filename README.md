@@ -23,7 +23,13 @@ Apliquei princípios de modelagem dimensional (**Star Schema**) para garantir a 
 
 ## 📸 Demonstração
 ![Dashboard de Vendas - Visão Geral](https://raw.githubusercontent.com/pedrotiburcio/powerbi-sales-dashboard/main/screenshots/dashboard.png)
-*Legenda: Visão geral do dashboard de vendas desenvolvido no Power BI.*
+*Visão geral do dashboard de vendas.*
+
+![Dashboard Sales Tooltip](https://raw.githubusercontent.com/pedrotiburcio/powerbi-sales-dashboard/main/screenshots/salesdashboard-tooltip.png)
+*Tooltips exibindo métricas específicas ao passar o mouse.*
+
+![Sales Details](https://raw.githubusercontent.com/pedrotiburcio/powerbi-sales-dashboard/main/screenshots/salesdetails.png)
+*Visão detalhada das transações e análise granular de vendas.*
 
 ## 🚀 Como visualizar
 Pode interagir com o dashboard online através do link: [Dashboard Interativo](https://app.powerbi.com/view?r=eyJrIjoiZTBmNDQ3ZTctZWE5ZC00Yzk1LWFkYmItMDg3NTk0Njc5OWRjIiwidCI6ImRhYjgyMzM0LTU2YzctNDIxMy1hZGQyLTRhMjJjMjgyMzYxYyJ9)
